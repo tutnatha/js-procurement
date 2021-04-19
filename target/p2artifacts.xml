@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?artifactRepository version='1.1.0'?>
+<artifacts size='2'>
+  <artifact classifier='osgi.bundle' id='org.icreated.wstore.api' version='8.1.0.202104170123'>
+    <properties size='5'>
+      <property name='artifact.size' value='4379995'/>
+      <property name='download.size' value='4379995'/>
+      <property name='maven-groupId' value='org.idempiere'/>
+      <property name='maven-artifactId' value='org.icreated.wstore.api'/>
+      <property name='maven-version' value='8.1.0-SNAPSHOT'/>
+    </properties>
+  </artifact>
+  <artifact classifier='osgi.bundle' id='org.icreated.wstore.api.source' version='8.1.0.202104170123'>
+    <properties size='6'>
+      <property name='artifact.size' value='67324'/>
+      <property name='download.size' value='67324'/>
+      <property name='maven-groupId' value='org.idempiere'/>
+      <property name='maven-artifactId' value='org.icreated.wstore.api'/>
+      <property name='maven-version' value='8.1.0-SNAPSHOT'/>
+      <property name='maven-classifier' value='sources'/>
+    </properties>
+  </artifact>
+</artifacts>
